@@ -1,5 +1,5 @@
 # h5-template-vue2
-A simple vue2 project template
+A simple vue2 project template, inclues rem, sass, vue-router, etc.
 
 ### Installation
 
@@ -9,7 +9,7 @@ Prerequisites: [Node.js](https://nodejs.org/en/) (>=6.x, 8.x preferred), npm ver
 
 ``` bash
 $ npm install
-$ npm run serve
+$ npm run dev
 ```
 
 The above command create a server which port is 8081, and you can test demo: 
@@ -20,3 +20,6 @@ App running at:
 Note that the development build is not optimized.
 To create a production build, run yarn build.
 
+### Doc
+[Vue 官网](https://cn.vuejs.org/)
+[Vue-cli 官网](https://cli.vuejs.org/)

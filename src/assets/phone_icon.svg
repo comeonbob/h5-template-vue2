@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="70px" viewBox="0 0 70 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>phone_icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="09-使用非移动端打开页面" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="A-1-使用非移动端打开页面" transform="translate(-290.000000, -114.000000)">
+            <g id="phone_icon" transform="translate(290.000000, 114.000000)">
+                <g id="Page-1">
+                    <polygon id="Stroke-1" stroke-opacity="0.00784313771" stroke="#000000" stroke-width="1.33333335e-11" points="0 0 70 0 70 70 0 70"></polygon>
+                    <path d="M45.6923077,3 L22.3076923,3 C18.2738458,3 15,6.25818147 15,10.2727273 L15,59.7272727 C15,63.7418156 18.2738458,67 22.3076923,67 L45.6923077,67 C49.7261512,67 53,63.7418156 53,59.7272727 L53,10.2727273 C53,6.25818147 49.7261512,3 45.6923077,3 Z M34,64.0909091 C31.5738462,64.0909091 29.6153846,62.1418179 29.6153846,59.7272727 C29.6153846,57.3127273 31.5738462,55.3636364 34,55.3636364 C36.4261536,55.3636364 38.3846154,57.3127273 38.3846154,59.7272727 C38.3846154,62.1418179 36.4261536,64.0909091 34,64.0909091 Z M47.1538462,52.4545455 L20.8461538,52.4545455 L20.8461538,11.7272727 L47.1538462,11.7272727 L47.1538462,52.4545455 Z" id="Fill-2" fill="#063B76"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
